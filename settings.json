@@ -2,9 +2,9 @@
     "pageTitle": "나만의 손 모양 테스트",
     "mainTitle": "난 어떤 손일까",
     "subtitle": "손 사진으로 보는 손 모양 테스트",
-    "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
+    "footerText": "&copy; :) 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/FgauoPNN7/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/AUumLXWbr/",
     "classDetails": [
         {
             "name": "모델",
